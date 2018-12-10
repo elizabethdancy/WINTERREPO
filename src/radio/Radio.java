@@ -14,6 +14,7 @@ public class Radio {
     private int volume = 0;
     private boolean on;
     private Voice driverVoice;
+    private int gitCheck=0;
     public static final int MAX_VOLUME=10;
 
     /**
